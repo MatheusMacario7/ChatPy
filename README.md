@@ -3,9 +3,13 @@
 Este é um chat simples desenvolvido em Python que permite a comunicação entre clientes e um servidor. Ele oferece funcionalidades básicas de chat em grupo e mensagens privadas. Este projeto foi criado como parte da disciplina de Redes de Computadores da Universidade Federal de Alagoas (UFAL) e teve como participantes os seguintes estudantes:
 
 **- Gabriel Vitorino de Andrade**
+
 **- Maria Eduarda Cardoso Aciole**
+
 **- Matheus Macário dos Santos**
+
 **- Rafael Ramos Pimentel Santana**
+
 **- Rômulo José Araújo Rodrigues Siqueira**
 
 Aqui estão as principais funcionalidades do servidor e do cliente, juntamente com instruções sobre como utilizar o chat:
